@@ -1,2 +1,0 @@
-# NewSandbox
-Created with CodeSandbox
